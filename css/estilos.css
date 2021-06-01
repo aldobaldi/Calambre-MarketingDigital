@@ -60,7 +60,7 @@ body{
 }
 .back1{
 
-	background-image: url(multimedia/imagenes/portada_inicio.png);
+	background-image: url(../multimedia/imagenes/portada_inicio.png);
 	background-position: center center;
 	background-size: cover;
 	height:100vh;
