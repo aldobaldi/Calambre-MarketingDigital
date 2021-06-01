@@ -325,7 +325,7 @@ body{
 	align-items: center;
 }
 .servicios .seccion1a h1{
-	color: rgb(231,233,235);
+	visibility: hidden;
 }
 
 
