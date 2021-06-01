@@ -106,7 +106,7 @@ body{
 	display: flex;
 	flex-direction: row;
 	max-width: 100%;
-	background-image: url("multimedia/imagenes/cursos_iniciocopia.png");
+	background-image: url("../multimedia/imagenes/cursos_iniciocopia.png");
 	background-position: center center;
 	background-size: cover;
 	height: 100%;
@@ -131,7 +131,7 @@ body{
 	display: flex;
 	flex-direction: row;
 	max-width: 100%;
-	background-image: url("multimedia/imagenes/asesorias_iniciocopia.png");
+	background-image: url("../multimedia/imagenes/asesorias_iniciocopia.png");
 	background-position: center center;
 	background-size: cover;
 	height: 100%;
@@ -154,7 +154,7 @@ body{
 	display: flex;
 	flex-direction: row;
 	max-width: 100%;
-	background-image: url("multimedia/imagenes/manejo_redes_iniciocopia.png");
+	background-image: url("../multimedia/imagenes/manejo_redes_iniciocopia.png");
 	background-position: center center;
 	background-size: cover;	
 	height: 100%;
